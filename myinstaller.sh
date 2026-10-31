@@ -7,7 +7,7 @@
 
 PLUGIN_NAME="LukaTV"
 PKG_BASE="enigma2-plugin-extensions-lukatv"
-VERSION="1.0.0"
+VERSION="1.0.1"
 USERNAME="popking159"
 REPO="LukaTV"
 
