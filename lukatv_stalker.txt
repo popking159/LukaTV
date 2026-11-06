@@ -8,6 +8,11 @@ http://primary4.magbox.tv/stalker_portal/c
 http://xegd.ultapulta.com/stalker_portal/c
 00:1A:79:51:8B:86
 
+http://line.watchtivo-8k.com/c/
+00:1A:79:20:6F:76
+00:1A:79:B6:48:9A
+00:1A:79:F5:CE:0D
+
 http://backup.xp1.tv/c
 00:1A:79:D7:8D:D0
 00:1A:79:C4:2E:CA
