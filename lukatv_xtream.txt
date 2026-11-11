@@ -18,8 +18,8 @@ http://extra-mytv.xyz:80/get.php?username=CZQM65V9&password=2SDAKY3Y&type=m3u_pl
 http://extra-mytv.xyz:80/get.php?username=UVWSD2YP&password=89BZV9MR&type=m3u_plus&output=ts
 http://extra-mytv.xyz:80/get.php?username=XENON313091V&password=5683648815&type=m3u_plus&output=ts
 http://ezaiol.com/get.php?username=XJL88R34&password=MPNCLQMK&type=m3u&output=ts
-http://falconway.prvtstwo.com:8080/get.php?username=gWCrPnWCBB&password=cqGbCqQ&type=m3u/c/&output=ts
-http://falke.hometvfit.com:8080/get.php?username=Aytackuzen@1177&password=Db3usKdsJe&type=m3u/c/&output=ts
+http://falconway.prvtstwo.com:8080/get.php?username=gWCrPnWCBB&password=cqGbCqQ&type=m3u_plus&output=ts
+http://falke.hometvfit.com:8080/get.php?username=Aytackuzen@1177&password=Db3usKdsJe&type=m3u_plus&output=ts
 http://fast-smartplus.xyz:80/get.php?username=928300142655594&password=Hcv1QB32m9&type=m3u_plus&output=ts
 http://fast-smartplus.xyz:80/get.php?username=F0CA210307A2429&password=fXZAu6m8BN&type=m3u_plus&output=ts
 http://fast-smartplus.xyz:80/get.php?username=F5CC53458DA48A5&password=L3mdsjaGxf&type=m3u_plus&output=ts
