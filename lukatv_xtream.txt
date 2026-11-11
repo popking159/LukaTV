@@ -1,6 +1,6 @@
+http://arabic-tv-box.info:7777/get.php?username=6022499014&password=FRBdYAVoKe&type=m3u_plus&output=m3u8
 http://world.marvelhd.eu:8000/get.php?username=000000Vaid&password=LZsM1FaNnr&type=m3u_plus&output=m3u8
 http://neonqptan.top:8080/get.php?username=78174929613918&password=vfr4xajg2n9y&type=m3u_plus&output=m3u8
-http://neonqptan.top:8080/get.php?username=9941791396844&password=f3e66e31a83d&type=m3u_plus&output=m3u8
 http://abd2022.xyz:80/get.php?username=5156Y21TFUJ49ZV&password=8xHeWWsG2J&type=m3u&output=ts
 http://xsmart8787.xyz:80/get.php?username=5156Y21TFUJ49ZV&password=8xHeWWsG2J&type=m3u&output=ts
 http://xsmart8787.xyz:80/get.php?username=5BKP5MJB763N7BD&password=0cDq2Im7F5&type=m3u&output=ts
@@ -30,7 +30,7 @@ http://fastopen.live:8080/get.php?username=12win22112503&password=vh3759ZBLT&typ
 http://fastopen.live:8080/get.php?username=1EPpZmxkLv&password=LF5Wck69Cm&type=m3u_plus&output=ts
 http://fastopen.live:8080/get.php?username=3bWQ6DUony&password=tVcDq6CLj1&type=m3u_plus&output=ts
 http://fastopen.live:8080/get.php?username=42rQ3nvbYz&password=YqVG4hj1We&type=m3u_plus&output=ts
-http://fastopen.live:8080/get.php?username=498TAauskX&password=7ZoWpJGYy3&type=m3u_plus&output=tshttp://fastopen.live:8080/get.php?username=q7SLKnuzyJ
+http://fastopen.live:8080/get.php?username=498TAauskX&password=7ZoWpJGYy3&type=m3u_plus&output=ts
 http://fastopen.live:8080/get.php?username=vitorpolicia&password=VJWyirYatl&type=m3u_plus&output=ts
 http://fastopen.live:8080/get.php?username=wHVIizpBq2&password=A6r9q4LWmR&type=m3u_plus&output=ts
 http://fastopen.live:8080/get.php?username=xtraiptv7200&password=q3UA72Y9Pk&type=m3u_plus&output=ts
